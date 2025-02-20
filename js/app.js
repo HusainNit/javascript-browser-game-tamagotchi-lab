@@ -80,5 +80,3 @@ playBtnEl.addEventListener("click",playBtnClick)
 feedBtnEl.addEventListener("click",feedBtnClick)
 sleepBtnEl.addEventListener("click",sleepBtnClick)
 resetBtnEl.addEventListener("click",init)
-
-
